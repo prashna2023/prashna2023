@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Prashna Sharma
 
-<!--
-**prashna2023/prashna2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring QA Engineer passionate about software quality, testing, and continuous learning. 🚀
+ 
+- 🧪 Learning Software Testing and QA
+- 🔍 Practicing test cases, test scenarios, and bug reporting
+- 📚 Exploring different software testing techniques
+- 💻 Learning web development and modern technologies
+- 🌱 Always improving my technical and problem-solving skills
 
-Here are some ideas to get you started:
+Focused on learning, finding bugs, improving software quality, and growing every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+
+- 💼 LinkedIn:http://www.linkdin.com/in/prashnadevkota/
+- 📧 Gmail:http://mail.google.com/mail/?view=cm&fs=1&to=prashna2023@gmail.com
+- 📸 Instagram:https://www.instagram.com/prashna__devkota/
+- 📸 Facebook:https://www.facebook.com/prashna.devkota4
+
+## 🛠️ Skills & Tools
+
+`Manual Testing` `Test Cases` `Test Scenarios` `Bug Reporting`  
+`Jira` `GitHub` `HTML` `CSS` `JavaScript`
+
+## 🚀 Currently Learning
+
+- Software Testing & QA
+- Automation Testing
+- API Testing
+- Web Development
+- Git & GitHub
