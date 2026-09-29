@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prashna Sharma
+Hi, I'm Prashna Sharma
 
 I'm an aspiring QA Engineer passionate about software quality, testing, and continuous learning. 🚀
  
